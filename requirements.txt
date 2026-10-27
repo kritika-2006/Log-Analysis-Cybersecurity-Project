@@ -1,0 +1,1 @@
+# No external dependencies required. Built-in Python standard libraries are used (re, collections).
